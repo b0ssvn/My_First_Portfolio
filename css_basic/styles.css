@@ -4,6 +4,10 @@ body, main{
 
 body{
   flex-direction: column;
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fperfect-backgrounds&psig=AOvVaw1cXXt44xFgs5oMrdpH_BMd&ust=1734603091359000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDavpuKsYoDFQAAAAAdAAAAABAJ);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 main{
   flex-direction: row;
